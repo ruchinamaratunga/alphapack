@@ -1,0 +1,53 @@
+/*Login*/
+
+.top-area {
+    height: 100%;
+    position: relative;
+    width: 100%;
+}
+
+.top-area-bg-login {
+    background: rgba(0, 0, 0, 0) url("../img/slider/Coffee-on-the-desktop-with-people-using-the-computer-Stock-Photo-05 (1).jpg") no-repeat scroll center center / cover;
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+
+.top-area-bg-login::after {
+    background: #3c4147;
+    content: "";
+    height: 100%;
+    left: 0;
+    opacity: 0.9;
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+
+/*---------------------------------------*/
+
+/*SignUp*/
+
+.top-area-bg-signup {
+    background: rgba(0, 0, 0, 0) url("../img/slider/email-signup-1600x500.jpg") no-repeat scroll center center / cover;
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+
+.top-area-bg-signup::after {
+    background: #3c4147;
+    content: "";
+    height: 100%;
+    left: 0;
+    opacity: 0.9;
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+
+/*---------------------------------------*/
